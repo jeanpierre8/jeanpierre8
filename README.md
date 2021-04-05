@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Jean-Pierre
 #### I'm a Student in Big Data and Machine Learning
-![I'm a Student in Big Data and Machine Learning]
 <img align="right" alt="GIF" src="https://aryng.com/assets/img/ani2.gif" height="350"  />
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
