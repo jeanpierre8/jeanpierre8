@@ -38,8 +38,8 @@ from 26/04/21 for a period of 3-6 months.
  
 <details>
   <summary >:zap: GitHub Stats</summary>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpierre8)
 
-  <img alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img alt="Vincent's Github Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&exclude_repo=Tirico-ShopCameraAnalitics&theme=tokyonight&layout=compact" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpierre8&show_icons=true)  
 </details>
 
