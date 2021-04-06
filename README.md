@@ -31,15 +31,15 @@ from 26/04/21 for a period of 3-6 months.
 
 <br>
 <br>
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/jeanpierre8)  
 
+ 
 <details>
   <summary >:zap: GitHub Stats</summary>
-<img alt="jeanpierre's GitHub Stats" src"https://github-readme-stats.vercel.app/api?username=jeanpierre8" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpierre8)
 
+  <img alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img alt="Vincent's Github Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&exclude_repo=Tirico-ShopCameraAnalitics&theme=tokyonight&layout=compact" />
 </details>
-
-
 
