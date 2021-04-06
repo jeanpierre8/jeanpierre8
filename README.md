@@ -5,7 +5,9 @@
 ### I'm a Student in Big Data and Machine Learning
 I am a student at Efrei Paris looking for an M1 technical internship
 from 26/04/21 for a period of 3-6 months. 
+
 - 💜 Passionate about **3D printing**, **Volley-ball** and **Data analysis**
+- 📫 How to reach me: jean-pierre.tran@efrei.net 
 
 ### ✉️ Find me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeanpierre8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jean-pierre-tran/)  
