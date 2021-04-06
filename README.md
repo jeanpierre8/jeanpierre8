@@ -6,7 +6,7 @@ I made this project just for fun, it allows you to create
 
 - 💜 Passionate about **3D printing**, **Volley-ball** and **Data analysis**
 
-
+### Contact me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeanpierre8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jean-pierre-tran/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpierre8)](https://github.com/anuraghazra/github-readme-stats)
