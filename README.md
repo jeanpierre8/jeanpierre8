@@ -25,6 +25,8 @@ I made this project just for fun, it allows you to create
 <img align="left" alt="jupyter" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-330px-Jupyter_logo.svg.png" />
 <img align="left" alt="jupyter" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/langfr-330px-Jupyter_logo.svg.png" />  
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpierre8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/jeanpierre8)  
