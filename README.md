@@ -40,7 +40,7 @@ from 26/04/21 for a period of 3-6 months.
 <summary >:zap: GitHub Stats</summary>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpierre8)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpierre8&show_icons=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpierre8&show_icons=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanpierre8)
 </details>
 
