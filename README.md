@@ -1,10 +1,10 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Jean-Pierre
 
-<img align="right" alt="GIF" src="https://aryng.com/assets/img/ani2.gif" height="350"  />
+<img align="right" alt="GIF" src="https://aryng.com/assets/img/ani2.gif" height="450"  />
 
 ### I'm a Student in Big Data and Machine Learning
-I am a student in the Big Data and Machine Learning major at Efrei Paris looking  
-for an M1 technical internship from 26/04/21 for a period of 3-6 months. 
+I am a student at Efrei Paris looking for an M1 technical internship
+from 26/04/21 for a period of 3-6 months. 
 - 💜 Passionate about **3D printing**, **Volley-ball** and **Data analysis**
 
 ### ✉️ Find me on:
