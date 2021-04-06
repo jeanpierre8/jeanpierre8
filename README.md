@@ -34,11 +34,10 @@ from 26/04/21 for a period of 3-6 months.
 <br>
 <details>
   <summary >:zap: GitHub Stats</summary>
-[![jeanpierre8's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpierre8)](https://github.com/jeanpierre8/github-readme-stats)
+<img alt="jeanpierre's GitHub Stats" src"https://github-readme-stats.vercel.app/api?username=jeanpierre8" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpierre8)
 
 </details>
 ![Profile views](https://gpvc.arturio.dev/jeanpierre8)  
-
 
 
