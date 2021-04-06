@@ -1,9 +1,9 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Jean-Pierre
 
 <img align="right" alt="GIF" src="https://aryng.com/assets/img/ani2.gif" height="350"  />
+
 ## I'm a Student in Big Data and Machine Learning
 I made this project just for fun, it allows you to create 
-
 - 💜 Passionate about **3D printing**, **Volley-ball** and **Data analysis**
 
 ### ✉️ Find me on:
